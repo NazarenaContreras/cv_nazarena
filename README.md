@@ -1,6 +1,6 @@
 #  Nazarena Contreras
 
-**Backend Developer Jr · Estudiante Ingeniería en Sistemas @ UTN · Córdoba, Argentina**  
+**Backend Developer Jr · Estudiante Ingeniería en Sistemas en UTN · Córdoba, Argentina**  
 📌 Open to work
 
 ---
